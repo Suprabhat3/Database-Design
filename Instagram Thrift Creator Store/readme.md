@@ -1,6 +1,6 @@
 # 📦 Thrift + Handmade Store Database Design (ER Model)
 
-![ER Diagram](/diagram.svg)
+![ER Diagram](diagram.svg)
 
 ## Overview
 
